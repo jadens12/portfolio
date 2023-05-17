@@ -1,0 +1,26 @@
+.navbar{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+.left-element{
+    order: 1;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.right-elements{
+    order: 2;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.right-elements label {
+    margin: 10px;
+}
+
+
