@@ -1,0 +1,42 @@
+
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(131, 76, 4);
+}
+
+.footer-contact{
+    display: flex;
+    flex-direction: column;   
+}
+
+.contact-links{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.email{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.titles{
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.footer-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.content-links{
+    color: white;
+    font-size: 18px;
+    margin: 10px;
+}
