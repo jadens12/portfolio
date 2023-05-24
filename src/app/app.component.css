@@ -2,16 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: white;
-    font-size: 20px;
-    background-color: rgb(131, 76, 4);
-}
-
-.left-element{
-    order: 1;
-    display: flex;
-    flex-direction: column;
-    margin: 10px;
+    color: black;
+    font-size: 14px;
 }
 
 .right-elements{

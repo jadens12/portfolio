@@ -1,0 +1,11 @@
+.about-container{
+    display: flex;
+    margin: 0px;
+    height: 200px;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}

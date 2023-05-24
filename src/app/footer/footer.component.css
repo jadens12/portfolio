@@ -3,19 +3,14 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color: rgb(131, 76, 4);
-}
-
-.footer-contact{
-    display: flex;
-    flex-direction: column;   
+    background-color: #D4A373;
+    height: 200px;
 }
 
 .contact-links{
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 18px;
-    margin: 10px;
 }
 
 .email{
@@ -25,7 +20,7 @@
 }
 
 .titles{
-    color: white;
+    color: black;
     font-size: 20px;
     margin: 10px;
 }
@@ -36,7 +31,14 @@
 }
 
 .content-links{
-    color: white;
+    color: black;
     font-size: 18px;
+    margin-bottom: 10px;
+    list-style: none;
+    padding: 0;
+}
+
+.list{
     margin: 10px;
+    padding: 0;
 }
